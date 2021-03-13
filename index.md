@@ -8,8 +8,6 @@ tu me puedes llamar...
 
 8-bit Cookie Monster
 
-### Markdown
-
 y te acompañare en la explicacion de como
 se desarrollo este sitio. Antes de comenzar a explicar sobre el desarrollo de esta pagina
 queremos dar una mención para nuestro patrocinador de la semana...
