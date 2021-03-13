@@ -30,3 +30,5 @@ HTML5, es un lenguaje que permite estructurar el contenido
 de una pagina web. Las siglas HTML quiere decir "HyperText Markup Language.
 
 Para ensamblar esta página se trabajaron los siguientes pasos;
+
+![](https://imgur.com/HsmBU0c)
