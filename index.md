@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Hola!
 
-You can use the [editor on GitHub](https://github.com/harrymollerr/HarryMAFDhtml5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+soy el primer intento de archivo dentro
+del repositorio de GitHub, pero
+tu me puedes llamar...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://pbs.twimg.com/media/CLzu95HUAAAblZG.jpg)
+
+8-bit Cookie Monster
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+y te acompañare en la explicacion de como
+se desarrollo este sitio. Antes de comenzar a explicar sobre el desarrollo de esta pagina
+queremos dar una mención para nuestro patrocinador de la semana...
 
-```markdown
-Syntax highlighted code block
+[The Coding Train](https://www.youtube.com/watch?v=BCQHnlnPusY&t=1s)
 
-# Header 1
-## Header 2
-### Header 3
+Si quieres disfrutar de otro video de The Coding Train,
+Tendras que accesar a otra rama de esta página...GOOD LUCK!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Es importante definir que esta pagina es dinamica
 
-**Bold** and _Italic_ and `Code` text
+¿Por que?
+Porque esta es una página colocada dentro de un solo servidor.
 
-[Link](url) and ![Image](src)
-```
+<¿Que es HTML5?
+HTML5, es un lenguaje que permite estructurar el contenido
+de una pagina web. Las siglas HTML quiere decir "HyperText Markup Language.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrymollerr/HarryMAFDhtml5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para ensamblar esta página se trabajaron los siguientes pasos;
