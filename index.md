@@ -31,4 +31,16 @@ de una pagina web. Las siglas HTML quiere decir "HyperText Markup Language.
 
 Para ensamblar esta página se trabajaron los siguientes pasos;
 
-[Imgur](https://imgur.com/HsmBU0c)
+## Página GitHub
+
+1. Se creo un repositorio en Github para los archivos.
+2. El archivo *indice* es la base de todo lo que se visualiza la página.
+3. Para visualizar un imágen o video, se adjunta la dirección.
+	3.1.  Puede ser un vinculo de internet
+	3.2. Puede ser una imágen almacenada en la computadora.
+	3.3. Una vez hecho el tronco, se pueden crear ramas que permitan modificaciones a la página.
+4. El objetivo de de una rama es proponer adiciones.
+	4.1.  Se pueden hacer ajustes.
+	4.2. Todo esto de manera paralele hasta dar el visto bueno de anexarlo al tronco.
+5.  En caso de detectar un problema se puede crear un _issue_ dentro del repositorio.
+	5.1. Hasta que quede resuelto, el _issue_ permanecera abierto.
