@@ -1,5 +1,12 @@
 Hola!
 soy el primer intento de archivo dentro
-del repositorio de GitHub y
-te acompañare en la explicacion de como
+del repositorio de GitHub, pero
+tu me puedes llamar... 
+
+<img src="https://pbs.twimg.com/media/CLzu95HUAAAblZG.jpg"
+            style="width: 600px; width: 300px" alt="">
+
+<h2>8-bit Cookie Monster</h1>
+
+y te acompañare en la explicacion de como
 se desarrollo este sitio.
